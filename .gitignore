@@ -108,3 +108,4 @@ train_combined
 sample_evaluation_data
 validation
 data/runs
+data/raw_sim_data
